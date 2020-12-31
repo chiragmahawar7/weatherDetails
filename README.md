@@ -10,7 +10,7 @@ Hackerrank Angular Certificate Challenge
 
 - There is an input field for the city name where the user can type the name of a city to search the weather data for. (The city name is case-insensitive.)
 
-- If data exists for the typed input, render the weather details
+- If data exists for the typed input, render the weather details div else render no results found div.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
